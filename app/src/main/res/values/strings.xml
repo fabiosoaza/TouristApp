@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Onde ?</string>
+    <string name="title_hotel">Onde ficar?</string>
+    <string name="title_locais">O que fazer?</string>
+    <string name="title_history">O que conhecer?</string>
+    <string name="title_restaurantes">Onde comer?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="prainha_desc">Com 600m, seguindo até o Morro do Farol, não é muito segura para banhos, devido a incidência de rochas no mar, mas de grande beleza natural. Parte da praia possui grama, um diferencial bem vindo para atividades como piquenique. É uma das praias mais urbanizadas da região, sendo muito procurada por turistas no verão. É na prainha que acontecem alguns eventos de recreação publica, mesmo fora de temporada de veraneio. Apresenta movimento constante, principalmente nos feriados e finais de semana.</string>
+    <string name="guarita_desc">O Parque Estadual da Guarita, uma unidade de conservação brasileira com cerca de 350 hectares, foi criado em 1971 através do empenho de vários ambientalistas locais buscando proteger este cenário geológico de grande valor ambiental e paisagístico. O Parque é constituído essencialmente por ecossistema costeiro, contando com a Praia da Guarita. Este local também possui grande importância cultural e econômica, sendo referência no lazer ambiental local, recebendo anualmente aproximadamente 30 mil visitantes.</string>
+    <string name="cal_desc">Localizada entre o Morro do Farol e o Morro das Furnas, com aproximadamente 800 metros de extensão, essa bela e tranquila praia é conhecida como mais uma opção para o surfe. Seu nome se deve à antiga presença de fornos de torrefação de conchas retiradas de sambaquis para fabricação de cal.</string>
+    <string name="igreja_desc">A Igreja São Domingos, localizada no Morro do Farol, é o marco inicial do núcleo urbano de Torres, pois foi a partir dela que a cidade se desenvolveu.
+Sua construção iniciou-se em 1820 e sua inauguração se deu em 24 de outubro de 1824. Constitui-se na primeira igreja construída no trecho litorâneo entre Laguna (SC) e Osório (RS) e também é a segunda mais antiga no litoral do Estado. Erguida por prisioneiros de guerra, guarani-cristãos castelhanos, a edificação é representativa da arquitetura luso-brasileira com trato barroco. O prédio e sua decoração interna têm um estilo eclético, com alguns traços neoclássicos e mesmo neogóticos.
+Tombada desde 1983 pelo patrimônio histórico e precioso elemento da memória histórica e religiosa do Rio Grande do Sul, a Igreja passou por um importante processo de restauro que durou em torno de sete anos, sendo reinaugurada em abril de 2017.</string>
+    <string name="lagoa_desc">Localizada no centro da cidade, tem esse nome por seu formato assemelhar-se com um violão. Tem cerca de 2km quadrados de extensão, possui uma passarela e é toda pavimentada e iluminada a sua volta. Em suas águas é possível observar peixes, tartarugas e aves aquáticas, além de desfrutar de esportes aquáticos, como stand up paddle, caiaque e pedalinhos.</string>
+    <string name="monu_desc">Localizado junto à Sociedade Amigos da Praia de Torres, é o único monumento da América Latina que presta este tipo de homenagem.Esse é um trabalho da Artista Plástica Leda Christina Nácul, cujo título é “Tubo”.Construído em concreto, representa um surfista pegando onda. Monumento ao Surfista, Pontos Turísticos Torres, Torres</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHoteis"
+        android:icon="@drawable/ic_hotel_48"
+        android:title="@string/title_hotel" />
+
+    <item
+        android:id="@+id/navLocais"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/title_locais" />
+
+    <item
+        android:id="@+id/navHist"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="@string/title_history" />
+    <item
+        android:id="@+id/navRestaurantes"
+        android:icon="@drawable/ic_restaurant_48"
+        android:title="@string/title_restaurantes" />
+
+</menu>
