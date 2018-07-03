@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:padding="8dp"
-    >
+    android:padding="8dp">
 
     <TextView
         android:id="@+id/txtNameEstablish"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-        tools:text="@tools:sample/cities"
-        android:textSize="30sp"/>
+        android:textSize="30sp"
+        tools:text="@tools:sample/cities" />
 
     <TextView
         android:id="@+id/txtFoneEstablish"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
         android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="20sp"
         tools:text="@tools:sample/us_phones" />
 
     <TextView

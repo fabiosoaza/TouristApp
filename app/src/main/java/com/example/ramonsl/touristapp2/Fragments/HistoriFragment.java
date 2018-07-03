@@ -16,7 +16,6 @@ import java.util.ArrayList;
 
 public class HistoriFragment extends Fragment {
 
-
     PlacesAdapter adapter;
     ArrayList<Places> lista;
     ListView listView;
@@ -27,12 +26,11 @@ public class HistoriFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
         View root = inflater.inflate(R.layout.fragment_places, container, false);
         listView = root.findViewById(R.id.listPlaces);
         lista = new ArrayList<>();
-        lista.add(new Places("Igreja São Domingos",getString(R.string.igreja_desc) , R.drawable.igreja));
-        lista.add(new Places("Monumento ao surfista",getString(R.string.monu_desc) , R.drawable.monu));
+        lista.add(new Places(getString(R.string.igreja), getString(R.string.igreja_desc), R.drawable.igreja));
+        lista.add(new Places(getString(R.string.monu), getString(R.string.monu_desc), R.drawable.monu));
         adapter = new PlacesAdapter(getActivity(), lista);
         listView.setAdapter(adapter);
         return root;

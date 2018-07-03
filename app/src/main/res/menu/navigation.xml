@@ -3,7 +3,7 @@
 
     <item
         android:id="@+id/navHoteis"
-        android:icon="@drawable/ic_hotel_48"
+        android:icon="@drawable/baseline_hotel_24"
         android:title="@string/title_hotel" />
 
     <item
@@ -17,7 +17,7 @@
         android:title="@string/title_history" />
     <item
         android:id="@+id/navRestaurantes"
-        android:icon="@drawable/ic_restaurant_48"
+        android:icon="@drawable/baseline_restaurant_24"
         android:title="@string/title_restaurantes" />
 
 </menu>

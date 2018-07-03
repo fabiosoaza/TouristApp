@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="8dp"
-    xmlns:tools="http://schemas.android.com/tools"
-    >
+    android:padding="8dp">
 
-    <RelativeLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical">
@@ -26,13 +23,13 @@
 
         <TextView
             android:id="@+id/txtName"
+            style="@style/Title"
             android:layout_alignEnd="@id/imgPlace"
-            tools:text="@tools:sample/cities"
-            style="@style/Title" />
+            tools:text="@tools:sample/cities" />
 
     </RelativeLayout>
-    <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical">
@@ -42,9 +39,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/colorPrimaryDark"
-            android:typeface="sans"
-            android:textSize="18sp"
             android:textColor="@color/primaryTextColor"
+            android:textSize="18sp"
+            android:typeface="sans"
             tools:text="Prainha ou Praia do Meio é uma praia brasileira do estado do Rio Grande do Sul, localizada entre a Praia da Cal ao sul e Praia Grande ao norte" />
 
 
