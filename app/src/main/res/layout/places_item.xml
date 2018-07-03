@@ -19,7 +19,8 @@
             android:layout_width="wrap_content"
             android:layout_height="256dp"
             android:scaleType="centerCrop"
-            app:srcCompat="@drawable/prainha" />
+            app:srcCompat="@drawable/prainha"
+            />
 
         <TextView
             android:id="@+id/txtName"
